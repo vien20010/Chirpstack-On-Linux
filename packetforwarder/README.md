@@ -1,6 +1,9 @@
 How to compile
 - Check SPI dev in libloragw\library.cfg
-- make	
+- Check reset pin in reset_lgw.sh
+- Change Gateway_ID in local_conf.json and global_conf.json
+- Run in command: "make"
+- Run start.sh
 
 
 
